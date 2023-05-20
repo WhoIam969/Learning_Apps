@@ -1,0 +1,4 @@
+<resources>
+
+    <style name="Theme.LearningApps" parent="@style/Theme.Leanback" />
+</resources>
